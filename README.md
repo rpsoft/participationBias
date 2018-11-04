@@ -1,3 +1,3 @@
-## Non-differential misclassifcation of exposure
+## Non-participation bias
 
 Shiny app as a practical demonstration for the topic above.

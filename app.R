@@ -18,7 +18,7 @@ ui <- fluidPage(
    includeCSS("styles.css"),
   
    # Application title
-   titlePanel("Non-differential misclassifcation of exposure"),
+   titlePanel("Non-participation bias"),
           h4("Using only data from the Participants of the study, finding borderline significant value, and a <1 OR, suggesting that regular use is assoc with lower odds of developing melanoma",class="header"),
           dataTableOutput('table1'),
           textOutput("fisher1"),
